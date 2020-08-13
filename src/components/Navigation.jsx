@@ -1,6 +1,7 @@
 import React from 'react';
 import "../App.css";
-import logo from '../logo.svg';
+
+const logo = process.env.PUBLIC_URL + "/assets/logo.svg";
 
 class Navigation extends React.Component {
     render() {
