@@ -1,58 +1,28 @@
 {
-    "projects": [
+    "experience": [
         {
-            "projectName": "Recommendation System for Yelp Businesses",
-            "technologies": "Python, Spark, MapReduce",
-            "technologies-icon": [
-                "/assets/skills_logos/python.png"
-            ],
-            "duration": "May 2020-June 2020",
+            "position": "Research Intern",
+            "institution": "Centre for Systems & Software Engineering, USC",
+            "location": "Los Angeles, United States",
+            "duration": "May 2020-August 2020",
+            "project": "Extensions for Executable Domain Models",
+            "logo": "/assets/experience_logos/CSSE-logo.png",
             "description": [
-                "Designed a content-based recommendation system to determine the business likely to be reviewed by unique users using review data and building user and business profiles.",
-                "Implemented collaborative filtering methods for predicting ratings of about 10,000 businesses by 26,000 users with less than 1% RMS error on real world data using optimized user based and item based collaborative filtering algorithms."
-            ],
-            "link": "https://github.com/anishvaidya/INF-553-Data-Mining"
+                "Working on automatic generation of analysis class diagrams from use case specifications for the project ,”Extensions for Executable Domain Models” which aims to generate code for micro services infrastructure. ",
+                "Initial domain model extracted from user stories based on Pos-Tags and Type Dependencies. "
+            ]
         },
         {
-            "projectName": "Dialog Act Tagger for Sequence Labelling",
-            "technologies": "Python, PyCRF suite",
-            "duration": "February 2020-March 2020",
+            "position": "Data Science Intern",
+            "institution": "National Informatics Center",
+            "location": "Aligarh, India",
+            "duration": "June 2018 - July 2018",
+            "project": "Tax Fraud Detection",
+            "logo": "/assets/experience_logos/LTI.png",
             "description": [
-                "Worked on the Switchboard Corpus(SWBD) which is a dataset of telephonic conversation between 2 people. It is a labeled set of data, which comprises speaker name, tokens and part of speech tags.",
-                "The goal of the project was to assign a sequence label to each utterance of the dialogue for which machine Learning technique,Conditional Random Fields was used, designed for sequence labelling using toolkit CRFsuite.",
-                "Experimented with the choice of features for best classification and used K-Fold Cross Validation for accuracy calculation. An accuracy of 75.089% was achieved."
-            ],
-            "link": "https://github.com/anishvaidya/CSCI-544---Applied-Natural-Language-Processing"
-        },
-        {
-            "projectName": "Neural Network for MNIST Digit Classification",
-            "technologies": "Python, Numpy",
-            "duration": "October 2019-November 2019",
-            "description": [
-                "Developed a Multi-Layer Perceptron from scratch, to classify the handwritten MNIST digit dataset (0-9). The network had 5 hidden layers, having different activation functions, including linear, Relu and Softmax.",
-                "There was also a layer to prevent overfitting, where dropout regularization was added. The network was trained for 10 epochs, and gave a training accuracy of 99.82% and validation accuracy of 95.60%."
-            ],
-            "link": "https://github.com/anishvaidya/MIT-Indoor-Scene-Recognition"
-        },
-        {
-            "projectName": "Real Time Attendance Management System using Face Recognition",
-            "technologies": "Python, OpenCV, Deep Metric Learning",
-            "duration": "September 2018 - May 2019",
-            "description": [
-                "Developed a software in python whose objective was to detect the faces in a picture, recognize them and mark attendance of students accordingly. We used face_recognition library to train the model. ",
-                "The model was trained using a benchmark dataset – Ferret and with our own dataset of around 17 people. The model was able to secure an accuracy of around 93%."
-            ],
-            "link": "https://github.com/anishvaidya/Face-Recognition-Inception-Opencv-"
-        },
-        {
-            "projectName": "Student Management System",
-            "technologies": "Android, Java",
-            "duration": "October 2017-November 2017",
-            "description": [
-                "Developed an application in Android using Java from scratch that can be used by the teacher to take attendance of the students and to store the marks of the students.",
-                "Students could use this application to check their academic status."
-            ],
-            "link": "https://github.com/anishvaidya/Face-Recognition-Inception-Opencv-"
+                "Preprocessed and Structured Data of various taxpayers",
+                "Implemented K-mean Clustering algorithm to detect those who were paying less tax."
+            ]
         }
     ]
 }

@@ -3,7 +3,7 @@ import myexperience from '../data/myexperience.json';
 import '../App.css';
 import AOS from 'aos';
 
-const experienceList = myexperience.projects;
+const experienceList = myexperience.experience;
 
 class Experience extends Component{
     componentDidMount(){

@@ -1,0 +1,129 @@
+{
+    "skills": [
+        {
+            "domain": "Languages",
+            "value": [
+                {
+                    "name": "Python",
+                    "logo": "/assets/skills_logos/python.png"
+                },
+                {
+                    "name": "Java",
+                    "logo": "/assets/skills_logos/java.png"
+                },
+                {
+                    "name": "C",
+                    "logo": "/assets/skills_logos/c.png"
+                },
+                {
+                    "name": "C++",
+                    "logo": "/assets/skills_logos/cpp.png"
+                },
+                {
+                    "name": "SQL",
+                    "logo": "/assets/skills_logos/sql.png"
+                },
+                {
+                    "name": "Shell scripting",
+                    "logo": "/assets/skills_logos/shell.png"
+                }
+            ]
+        },
+        {
+            "domain": "Web Development",
+            "value": [
+                {
+                    "name": "HTML",
+                    "logo": "/assets/skills_logos/html.png"
+                },
+                {
+                    "name": "JavaScript",
+                    "logo": "/assets/skills_logos/js.png"
+                },
+                {
+                    "name": "PHP",
+                    "logo": "/assets/skills_logos/php.jpg"
+                },
+                {
+                    "name": "CSS",
+                    "logo": "/assets/skills_logos/laravel.jpg"
+                },
+                {
+                    "name": "React.js",
+                    "logo": "/assets/skills_logos/react.png"
+                }
+            ]
+        },
+        {
+            "domain": "Databases",
+            "value": [
+                {
+                    "name": "MySQL",
+                    "logo": "/assets/skills_logos/mysql.png"
+                },
+                {
+                    "name": "MongoDB",
+                    "logo": "/assets/skills_logos/mongodb.png"
+                },
+                {
+                    "name": "PostgreSQL",
+                    "logo": "/assets/skills_logos/postgresql.png"
+                },
+                {
+                    "name": "SQLite",
+                    "logo": "/assets/skills_logos/sqlite.png"
+                }
+            ]
+        },
+        {
+            "domain": "Data Science",
+            "value": [
+                {
+                    "name": "Tensorflow",
+                    "logo": "/assets/skills_logos/tensorflow.png"
+                },
+                {
+                    "name": "Keras",
+                    "logo": "/assets/skills_logos/keras.png"
+                },
+                {
+                    "name": "PyTorch",
+                    "logo": "/assets/skills_logos/pytorch.png"
+                },
+                {
+                    "name": "Scikit-learn",
+                    "logo": "/assets/skills_logos/scikit.png"
+                },
+                {
+                    "name": "Hadoop",
+                    "logo": "/assets/skills_logos/hadoop.png"
+                },
+                {
+                    "name": "PySpark",
+                    "logo": "/assets/skills_logos/pyspark.png"
+                },
+                {
+                    "name": "OpenCV",
+                    "logo": "/assets/skills_logos/opencv.png"
+                }
+            ]
+        },
+        {
+            "domain": "Other",
+            "value": [
+                {
+                    "name": "Android",
+                    "logo": "/assets/skills_logos/android.jpg"
+                },
+                {
+                    "name": "Git",
+                    "logo": "/assets/skills_logos/git.png"
+                },
+                {
+                    "name": "Amazon Web Services",
+                    "logo": "/assets/skills_logos/aws.jpg"
+                }
+            ]
+        }
+    ]
+}

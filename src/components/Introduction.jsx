@@ -21,6 +21,7 @@ class Introduction extends Component {
             <div>
                 <a href="https://github.com/pratushasingh" target="_blank" rel="noopener noreferrer"><i className="fab fa-github" style={{ fontSize: "2em", color: "black", padding: "1vw" }}></i></a>
                 <a href="https://www.linkedin.com/in/pratushasingh/" target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin" style={{ fontSize: "2em", color: "black", padding: "1vw" }}></i></a>
+                <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=pratusha@usc.edu" target="_blank" rel="noopener noreferrer"><i className="fab fa-google" style={{ fontSize: "2em", color: "black", padding: "1vw" }}></i></a>
             </div>
         </div>
     </div>)

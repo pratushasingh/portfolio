@@ -22,7 +22,7 @@
                 "The goal of the project was to assign a sequence label to each utterance of the dialogue for which machine Learning technique,Conditional Random Fields was used, designed for sequence labelling using toolkit CRFsuite.",
                 "Experimented with the choice of features for best classification and used K-Fold Cross Validation for accuracy calculation. An accuracy of 75.089% was achieved."
             ],
-            "link": ""
+            "link": "hello"
         },
         {
             "projectName": "Neural Network for MNIST Digit Classification",
