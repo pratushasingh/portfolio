@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import AOS from 'aos';
 import '../App.css';
 
-const picture = process.env.PUBLIC_URL + "/assets/images/anish.jpg";
+const picture = process.env.PUBLIC_URL + "/assets/images/portfolio_pic.png";
 
 class Introduction extends Component {
     componentDidMount() {
@@ -12,7 +12,7 @@ class Introduction extends Component {
     }
     render() {
         return (
-        < div className = "Section" id = "introduction" style = {{ backgroundColor: "#F1F1F1" }}>
+        < div className = "Section my-background" id = "introduction" style = {{ backgroundColor: "#F1F1F1" }}>
         <div data-aos="fade-in" data-aos-duration="2000" className="IntroContent">
             <br /><br /><br /><br />
             <img src={picture} alt="Meri tasveer" className="no-select" style={{ width: "20vw", borderRadius: "50%" }} data-aos="zoom-out-down" data-aos-duration="1500" />

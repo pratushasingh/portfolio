@@ -24,7 +24,7 @@ class Experience extends Component{
                                 <div className="card" data-aos = "slide-right" data-aos-duration = "1500" style = {{backgroundColor: "#F1F1F1"}} key={i}>
                                     <div className="card-content">
                                         <div className="card-title">{experience.position}</div>
-                                        <img src={logo} alt="Logo" className="Logo no-select" />
+                                        <img src={logo} alt="Logo" className="Logo no-select" style = {{padding: "30px"}}/>
                                     </div>
 
                                     <div className = "college">{experience.institution}</div>

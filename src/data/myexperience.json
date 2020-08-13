@@ -18,7 +18,7 @@
             "location": "Aligarh, India",
             "duration": "June 2018 - July 2018",
             "project": "Tax Fraud Detection",
-            "logo": "/assets/experience_logos/LTI.png",
+            "logo": "/assets/experience_logos/nic_logo.png",
             "description": [
                 "Preprocessed and Structured Data of various taxpayers",
                 "Implemented K-mean Clustering algorithm to detect those who were paying less tax."

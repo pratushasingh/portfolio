@@ -191,6 +191,7 @@
 
 .Name {
   /* font-size: 5vw; */
+  color: #ffffffd0;
   font-family: "Roboto";
   font-weight: bold;
   /* font-size: 7vw; */
@@ -289,4 +290,13 @@
     /* width: calc(500px - 10vmin); */
     width: 50px;
   }
+}
+
+.my-background{
+  background-image: url(./background3.jpeg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+
 }
