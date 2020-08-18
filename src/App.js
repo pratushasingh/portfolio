@@ -7,17 +7,19 @@ import Experience from './components/Experience';
 import Education from './components/Education';
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
+import About from "./components/About";
 
 
 function App() {
   return (
     <div className="App" data-spy="scroll" data-target=".navbar" data-offset="50">
-    <Navigation />
-    <Introduction />
-    <Skills />
-    <Education />
-    <Experience />
-    <Projects />
+      <Navigation />
+      <Introduction />
+      <Skills />
+      <Education />
+      <Experience />
+      <Projects />
+      <About />
     </div>
   );
 }

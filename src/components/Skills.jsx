@@ -24,7 +24,7 @@ class Skills extends Component {
     }
     render() {
         return (
-            <div className="Section" id="skills">
+            <div className="Section" id="skills" style = {{backgroundColor: "#fffdfa"}}>
                 <div className="Heading" data-aos="fade-in" data-aos-duration="2000">Skills</div>
                 <div id="demo" className="carousel slide" data-ride="carousel">
 

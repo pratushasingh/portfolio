@@ -15,7 +15,7 @@ class Projects extends Component {
 
     render() {
         return (
-            <div className="Section" style={{ backgroundColor: "#F1F1F1" }} id="projects">
+            <div className="Section" style={{ backgroundColor: "#faf3e8" }} id="projects">
                 <div className="Heading" data-aos="fade-in" data-aos-duration="2000">Projects</div>
                 <div className="card-container" data-aos="fade" data-aos-duration="1000">
                     {

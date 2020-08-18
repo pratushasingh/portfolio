@@ -13,7 +13,7 @@ class Experience extends Component{
     }
     render(){
         return (
-            <div className="Section" id = "experience">
+            <div className="Section" id = "experience" style = {{backgroundColor: "#fffdfa"}}>
             <div className="Heading" data-aos="fade-in" data-aos-duration="2000">Experience</div>
             <div className="card-container" data-aos = "fade" data-aos-duration = "1000">
                 {
@@ -21,7 +21,7 @@ class Experience extends Component{
                         let logo = process.env.PUBLIC_URL + experience.logo;
                         return (
                             <div className="row" key={i}>
-                                <div className="card" data-aos = "slide-right" data-aos-duration = "1500" style = {{backgroundColor: "#F1F1F1"}} key={i}>
+                                <div className="card" data-aos = "slide-right" data-aos-duration = "1500" style = {{backgroundColor: "#faf3e8"}} key={i}>
                                     <div className="card-content">
                                         <div className="card-title">{experience.position}</div>
                                         <img src={logo} alt="Logo" className="Logo no-select" style = {{padding: "30px"}}/>
