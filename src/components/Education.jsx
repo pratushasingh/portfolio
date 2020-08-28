@@ -21,7 +21,7 @@ class Education extends Component{
                         let logo = process.env.PUBLIC_URL + education.logo;
                         return (
                             <div className="row" key = {i}>
-                                <div className="card" data-aos = "slide-left" data-aos-duration = "1500" key={i}>
+                                <div className="card" data-aos = "slide-left" data-aos-duration = "1500" key={i} style = {{backgroundColor: "#fffdfa"}}>
                                     <div className="card-content">
                                         <div className="card-title">{education.universityName}</div>
                                         <img src={logo} alt="logo" className="Logo no-select" />

@@ -22,7 +22,7 @@ class Projects extends Component {
                         projectList.map((project, i) => {
                             return (
                                 <div data-aos="slide-left" data-aos-duration="1500" className="row" key={i}>
-                                    <div className="card" key={i}>
+                                    <div className="card" key={i} style = {{backgroundColor: "#fffdfa"}}>
                                         <div className="card-title">{project.projectName}</div>
 
                                         <div className="Technology">Technologies: {project.technologies}</div>

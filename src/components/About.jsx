@@ -12,7 +12,7 @@ class About extends Component {
         })
     }
     render() {
-        return (<div className="Section" id="about">
+        return (<div className="Section" id="about" style = {{backgroundColor: "#fffdfa"}}>
             <div className="Heading" data-aos="fade-in" data-aos-duration="2000">About</div>
             <article className="About" data-aos="slide-up" data-aos-duration="2000">{story}</article>
             <div style={{ fontSize: 'calc(8px + 2vmin)', fontWeight: "bold" }} data-aos="slide-up" data-aos-duration="2000">{quote}</div>
